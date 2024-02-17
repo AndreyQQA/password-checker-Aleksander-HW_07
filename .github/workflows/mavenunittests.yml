@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "Branch_002HW-07_Aleksander" ]
+    branches: [ "main" ]
 
 jobs:
   build:
