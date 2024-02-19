@@ -1,4 +1,4 @@
-# Test case for <font color = 'Orange'>_PasswordChecker feature_</font>
+# Test case for ${\color{orange}PasswordChecker feature}$
 
 | №  | Check name                                                                 | Expected result         | Status                            | Comment                                                                                       |
 |----|----------------------------------------------------------------------------|-------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
